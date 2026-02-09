@@ -19,6 +19,8 @@
     "@prisma/client": "^6.15.0",
     "@supabase/supabase-js": "^2.57.4",
     "@types/nodemailer": "^7.0.1",
+    "@upstash/ratelimit": "^2.0.8",
+    "@upstash/redis": "^1.36.2",
     "bcryptjs": "^2.4.3",
     "framer-motion": "^10.16.16",
     "jsonwebtoken": "^9.0.2",
